@@ -1,0 +1,15 @@
+C:\Data\Homework\Homework\Lesson 5\bin\Debug\Lesson 5.exe.config
+C:\Data\Homework\Homework\Lesson 5\bin\Debug\Lesson 5.exe
+C:\Data\Homework\Homework\Lesson 5\bin\Debug\Lesson 5.pdb
+C:\Data\Homework\Homework\Lesson 5\obj\Debug\Lesson 5.csprojAssemblyReference.cache
+C:\Data\Homework\Homework\Lesson 5\obj\Debug\MainWindow.g.cs
+C:\Data\Homework\Homework\Lesson 5\obj\Debug\App.g.cs
+C:\Data\Homework\Homework\Lesson 5\obj\Debug\Lesson 5_MarkupCompile.cache
+C:\Data\Homework\Homework\Lesson 5\obj\Debug\Lesson 5_MarkupCompile.lref
+C:\Data\Homework\Homework\Lesson 5\obj\Debug\MainWindow.baml
+C:\Data\Homework\Homework\Lesson 5\obj\Debug\Lesson 5.g.resources
+C:\Data\Homework\Homework\Lesson 5\obj\Debug\Lesson_5.Properties.Resources.resources
+C:\Data\Homework\Homework\Lesson 5\obj\Debug\Lesson 5.csproj.GenerateResource.cache
+C:\Data\Homework\Homework\Lesson 5\obj\Debug\Lesson 5.csproj.CoreCompileInputs.cache
+C:\Data\Homework\Homework\Lesson 5\obj\Debug\Lesson 5.exe
+C:\Data\Homework\Homework\Lesson 5\obj\Debug\Lesson 5.pdb
